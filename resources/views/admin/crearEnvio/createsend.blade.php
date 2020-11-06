@@ -12,6 +12,8 @@ Creación | Sannchiss
             <div class="card">
               <div class="card-header">
                 <h5 class="title">Datos Remitente</h5>
+                <h5 class="title">Prueba de Rama</h5>
+
               </div>
 
               <div class="card-body">
@@ -20,7 +22,6 @@ Creación | Sannchiss
                   <div class="row">
                     <div class="col-md-5 pr-1">
                       <div class="form-group">
-                        <label>NÚMERO DE ENVIO (disabled)</label>
                         <label>NÚMERO DE ENVIO (disabled)</label>
 
                         <input type="text" class="form-control" placeholder="N° de Envio" value=" " name="NUMERO_ENVIO">
